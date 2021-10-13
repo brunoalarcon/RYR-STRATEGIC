@@ -17,19 +17,10 @@ NOMBRE:
 TELEFONO: 
 ***********************************************************
 Asunto: VOLVER A LLAMAR
-llamar a las 5:00Pm---->
+llamar a las 0:00am---->
 NOMBRE: 
 TELEFONO: 
-***********************************************************
-Asunto: PARA VERIFICAR SU COBERTURA
-llamar a las 5:30am----> 
-NOMBRE: 
-TELEFONO: 994955491
-***********************************************************
-Asunto: VERIFICAR SU COBERTURA :3
-llamar a las 5:50pm----> 
-NOMBRE: 
-TELEFONO: 945899876
+
 
 ***********************************************************
 **                     OTROS DIAS                        **
@@ -51,7 +42,7 @@ Asunto: LLamar el dia 13/10/2021
 llamar a las 3:00pm---->
 NOMBRE: LLamar el dia 13/10/2021
 TELEFONO: 994141502
- al parecer esta ineresada encambiara claro :3
+ al parecer esta ineresada encambiar a claro :3
 ***********************************************************
 Asunto: 
 llamar a las 0:00pm ----->
