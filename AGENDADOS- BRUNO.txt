@@ -12,9 +12,9 @@ Distrito ** Provincia ** Departamento
 ***********************************************************
 
 Asunto: VOLVER A LLAMAR
-llamar a las 4:00Pm---->
+llamar a las 0:00am--->
 NOMBRE: 
-TELEFONO: 949257867 
+TELEFONO: 
 ***********************************************************
 Asunto: VOLVER A LLAMAR
 llamar a las 5:00Pm---->
@@ -79,6 +79,21 @@ NOMBRE: JOHANA LIZETH TORRES TANDAYPAN
 cuidad:  La Esperanza
 Provincia: Trujillo
 TELEFONO: 963111999 
+***********************************************************
+Asunto: ENVIARLE LAS PROPUESTAS
+escribir a la 8:00pm----> 
+NOMBRE: ARIAS PELAEZ ETELVINA
+cuidad: LA VICTORIA
+Provincia: LIMA
+TELEFONO: 964286490
+***********************************************************
+Asunto: ENVIARLE LAS PROPUESTAS
+escribir a la 8:00pm----> 
+NOMBRE: BARBOZA ZAMORA LILIANA
+cuidad: SAN MARTIN DE PORRES
+Provincia: LIMA
+TELEFONO: 950851591
+
 
 
 
