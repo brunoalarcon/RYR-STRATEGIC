@@ -10,6 +10,12 @@ Distrito ** Provincia ** Departamento
 ***********************************************************
 **                         HOY                           **
 ***********************************************************
+
+Asunto: VOLVER A LLAMAR
+llamar a las 4:00Pm---->
+NOMBRE: 
+TELEFONO: 949257867 
+***********************************************************
 Asunto: VOLVER A LLAMAR
 llamar a las 5:00Pm---->
 NOMBRE: FIORELLA VICTORIA DE AGUIRRE C
@@ -59,14 +65,21 @@ NOMBRE: JOSE MARCOS CORONEL LATORRE
 cuidad: CERCADO DE LIMA
 Provincia: LIMA
 TELEFONO: 944108550 
-
-
+***********************************************************
 Asunto: no me escucha
 escribir a la 8:00pm----> NO CONTESTO EL MENSAJE
 NOMBRE: RUTH MARIA MAMANI FLORES
 cuidad: socabaya
 Provincia: Arequipa
 TELEFONO: 940820956 
+***********************************************************
+Asunto: INTERESADO  ESCRIBIR PARA DECIRLE LAS OFERTAS
+escribir a la 8:00pm----> 
+NOMBRE: JOHANA LIZETH TORRES TANDAYPAN
+cuidad:  La Esperanza
+Provincia: Trujillo
+TELEFONO: 963111999 
+
 
 
 ***********************************************************
