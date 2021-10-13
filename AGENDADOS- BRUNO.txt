@@ -11,14 +11,14 @@ Distrito ** Provincia ** Departamento
 **                         HOY                           **
 ***********************************************************
 Asunto: VOLVER A LLAMAR
-llamar a las 9:10am----> no contestó
+llamar a las 9:10am---->
 NOMBRE: 
-TELEFONO: 924902744
+TELEFONO: 
 ***********************************************************
 Asunto: 
-llamar a las 9:20am----> no contestó
+llamar a las 9:20am----> 
 NOMBRE: 
-TELEFONO: 944129269
+TELEFONO: 
 
 ***********************************************************
 **                     OTROS DIAS                        **
@@ -58,7 +58,7 @@ el señor quiere un 2play cable + intenet
 ***********************************************************
 
 Asunto: no me escucha
-
+escribir a la 8:00pm----> no contestó
 NOMBRE: RUTH MARIA MAMANI FLORES
 cuidada: socabaya
 Provincia: Arequipa
