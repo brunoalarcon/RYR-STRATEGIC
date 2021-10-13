@@ -18,13 +18,18 @@ TELEFONO:
 ***********************************************************
 Asunto: VOLVER A LLAMAR
 llamar a las 5:00Pm---->
-NOMBRE: FIORELLA VICTORIA DE AGUIRRE C
-TELEFONO: 14387238
+NOMBRE: 
+TELEFONO: 
 ***********************************************************
 Asunto: PARA VERIFICAR SU COBERTURA
 llamar a las 5:30am----> 
 NOMBRE: 
 TELEFONO: 994955491
+***********************************************************
+Asunto: VERIFICAR SU COBERTURA :3
+llamar a las 5:50pm----> 
+NOMBRE: 
+TELEFONO: 945899876
 
 ***********************************************************
 **                     OTROS DIAS                        **
