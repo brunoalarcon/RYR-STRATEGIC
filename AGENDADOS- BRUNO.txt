@@ -3,6 +3,7 @@ RPC - 944222379
 TELEFONO - 966 410 760
 Atención al cliente - 0800123
 **********************
+CONSULTAS RENIEC: https://serviciosweb.reniec.gob.pe/aip/logout.do
 
 Distrito ** Provincia ** Departamento
 
@@ -27,7 +28,7 @@ NOMBRE:
 TELEFONO: 
 ****************************************************************************
 Asunto: VOLVER A LLAMAR NO ESTABA EN CASA. ME CONTESTÓ SU MAMÁ
-llamar a las 0:00am---->
+llamar a las 5:55am---->
 NOMBRE: Flores  Jenner Martin
 TELEFONO: 43783225
 
