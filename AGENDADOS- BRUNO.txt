@@ -10,6 +10,7 @@ Distrito ** Provincia ** Departamento
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
+
 Asunto: INTERESADO, VOLVER A LLAMAR NO SE ENCUENTRA EN SU CASA 
 LLAMAR a las 4:30 AM ----> 
 NOMBRE: LOPEZ SAMOCHUALLPA ABRAHAN
@@ -129,6 +130,13 @@ NOMBRE:
 cuidad: 
 Provincia: 
 TELEFONO: 
+
+*******************************
+*    DARKMODE                 *
+*    about:config             *
+*    ui.systemUsesDarkTheme   *
+*    NUMERO: DARK 1 - WHITE 0 *
+*******************************
 
 ****************************************************************************
 ****                         VENTAS REALIZADAS                          ****
