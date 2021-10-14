@@ -10,20 +10,20 @@ Distrito ** Provincia ** Departamento
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
-Asunto: INTERESADO, VOLVER A LLAMAR NO SE ENCUENTRA EN SU CASA 
-LLAMAR a las 4:30 AM ----> 
-NOMBRE: LOPEZ SAMOCHUALLPA ABRAHAN
-TELEFONO: 956290889
+Asunto: 
+
+NOMBRE: 
+TELEFONO: 
 ****************************************************************************
-Asunto: VOLVER A LLAMAR
-llamar a las 5:30 PM --->
-NOMBRE: CHILO CHIQUE FREDDY DAVID
-TELEFONO: 982772435
+Asunto: 
+LLAMAR a las 0:00 AM ----> 
+NOMBRE: 
+TELEFONO: 
 ****************************************************************************
-Asunto: VOLVER A LLAMAR
+Asunto: 
 llamar a las 5:30 PM ---->
-NOMBRE: MARIA DEL PILAR CARDOZO
-TELEFONO: 988449375
+NOMBRE: 
+TELEFONO: 
 ****************************************************************************
 Asunto: VOLVER A LLAMAR NO ESTABA EN CASA. ME CONTESTÓ SU MAMÁ
 llamar a las 5:55 PM ---->
@@ -36,10 +36,10 @@ ____________________________________________________________________________
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>  OTROS DIAS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
-Asunto: 
-llamar a las 0:00 AM ----->
-NOMBRE: 
-TELEFONO:
+Asunto: VOLVER A LLAMAR EL 15/10/2021 NO EST A EN CASA
+llamar a las 9:10 AM ----->
+NOMBRE: PINTO JARAMILLO LIZANDRO
+TELEFONO:920162869
 ****************************************************************************
 Asunto: 
 llamar a las 0:00 AM ----->
