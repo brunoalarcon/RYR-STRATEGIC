@@ -17,15 +17,15 @@ NOMBRE: Anibal Huayta Santiago
 TELEFONO: 980513131
 DIRECCIÓN: CDRA 6 AV 22 DE AGOSTO FRENTE AL CENTRO CIVICO DE COMAS 
 ****************************************************************************
-Asunto: LLamar el dia 14/10/2021
-llamar a las 10:20am---->
-NOMBRE: MARIA DEL PILAR CARDOZO
-TELEFONO: 988449375
-****************************************************************************
 Asunto: VOLVER A LLAMAR
 llamar a las 0:00am--->
 NOMBRE: 
 TELEFONO: 
+****************************************************************************
+Asunto: VOLVER A LLAMAR
+llamar a las 5:30am---->
+NOMBRE: MARIA DEL PILAR CARDOZO
+TELEFONO: 988449375
 ****************************************************************************
 Asunto: VOLVER A LLAMAR NO ESTABA EN CASA. ME CONTESTÓ SU MAMÁ
 llamar a las 5:55am---->
