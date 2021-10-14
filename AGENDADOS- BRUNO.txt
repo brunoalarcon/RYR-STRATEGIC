@@ -21,14 +21,14 @@ NOMBRE:
 TELEFONO: 
 ****************************************************************************
 Asunto: 
-llamar a las 5:30 PM ---->
+llamar a las 0:00 PM ---->
 NOMBRE: 
 TELEFONO: 
 ****************************************************************************
-Asunto: VOLVER A LLAMAR NO ESTABA EN CASA. ME CONTESTÓ SU MAMÁ
-llamar a las 5:55 PM ---->
-NOMBRE: Flores  Jenner Martin
-TELEFONO: 43783225
+Asunto: 
+llamar a las 0:00 PM ---->
+NOMBRE: 
+TELEFONO: 
 
 ____________________________________________________________________________
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
