@@ -1,4 +1,3 @@
- 
 RPC - 944222379  
 TELEFONO - 966 410 760
 Atención al cliente - 0800123
@@ -166,7 +165,7 @@ Asesor: BRUNO ALARCON
 **********************************************************
 ****************************************************************************
 JUEVES 14/10/2021
-avier_ruiz: Nombres y Apellidos:  CARMEN YORDAN LENCI SANCHEZ
+Nombres y Apellidos:  CARMEN YORDAN LENCI SANCHEZ
 DNI:  40093708
 SCORE:  10
 F.N:  05/08/1978
