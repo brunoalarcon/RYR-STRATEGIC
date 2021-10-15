@@ -20,10 +20,10 @@ LLAMAR a las 3:30 AM ---->
 NOMBRE: TOLEDO FLORES HUGO ALBERTO
 TELEFONO: 953504062
 ****************************************************************************
-Asunto: 
-llamar a las 0:00 PM ---->
-NOMBRE: 
-TELEFONO: 
+Asunto: TRIO CON MOVISTAR ACTIVO
+llamar a las 5:40 PM ----> 
+NOMBRE: PATRICIA MARIA VARGAS ORE
+TELEFONO: 940642822
 ****************************************************************************
 Asunto: 
 llamar a las 0:00 PM ---->
@@ -42,10 +42,11 @@ llamar a las 10:00 AM ----->
 NOMBRE: 
 TELEFONO: 994849543
 ****************************************************************************
-Asunto: 
-llamar a las 0:00 AM ----->
-NOMBRE: 
-TELEFONO:
+Asunto: VOLVER A LLAMAR 16/10/2021
+INTERESADO DE PASAR DE MOVISTAR A CLARO/ VA A CONSULTAR CON SU HIJOS
+llamar a las 3:50 PM ----->
+NOMBRE: JAIME RONALD ROJAS DEL AGUILA
+TELEFONO: 912732318
 ****************************************************************************
 Asunto: 
 llamar a las 0:00 AM ----->
@@ -189,7 +190,7 @@ F.D.ATENCION:
 Asesor: BRUNO ALARCON
 **********************************************************
 JUEVES 15/10/2021
-Nombres y Apellidos: RICHARD VILLAFUERTE AYBAR
+Nombres y Apellidos: 
 DNI:  
 SCORE:  
 F.N:  
@@ -203,10 +204,10 @@ Referencias:
 Distrito:  / /
 Nodo: 
 Plan solicitado :  2PLAY 50MB-TLF 100 S/80.00
-Números de contacto:  951345918
+Números de contacto:  
 FULL CLARO:  
 MODALIDAD:
-CODIGO DIARIO: BDMOV-5-19598
+CODIGO DIARIO: 
 PROGRAMACION:
 F.D.ATENCION:
 Asesor: BRUNO ALARCON
