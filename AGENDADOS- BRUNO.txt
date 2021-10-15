@@ -2,6 +2,7 @@ RPC - 944222379
 TELEFONO - 966 410 760
 Atención al cliente - 0800123
 **********************
+
 CONSULTAS RENIEC: https://serviciosweb.reniec.gob.pe/aip/logout.do
 
 Distrito ** Provincia ** Departamento
@@ -73,6 +74,12 @@ NOMBRE:   GUZMAN BAUTISTA MARTHA ROBERTA
 cuidad: SAN MARTIN DE PORRES 
 Provincia: LIMA
 TELEFONO:  976818524 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Asunto: ENVIAR PROPUESTAS 
+NOMBRE:   Dayana Alejandra
+cuidad: 
+Provincia: 
+TELEFONO:  934717444 
 ****************************************************************************
 
 REALIZADOS_________________________________________________________________
