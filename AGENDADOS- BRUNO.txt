@@ -10,10 +10,10 @@ Distrito ** Provincia ** Departamento
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
-Asunto: VOLVER A LLAMAR CUANDO ESTE EN CASA
-llamar a las 11:30 AM -----> NO CONTESTÓ
-NOMBRE: MONTURA ALANGUIA SABINO
-TELEFONO 942608828
+Asunto: 
+llamar a las 00:00 AM -----> 
+NOMBRE: 
+TELEFONO: 
 ****************************************************************************
 Asunto: VOLVER A LLAMAR LO VA  CONSULTAR
 LLAMAR a las 3:30 AM ----> 
@@ -211,6 +211,32 @@ PROGRAMACION:
 F.D.ATENCION:
 Asesor: BRUNO ALARCON
 **********************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      Verifica que version de Windows 8 tienes, para ellos debes ir a panel de control, en el apartado Sistema. Luego de saber que version tienes busca la licencia correspondiente a esa version abajo en este post.
     2. Ir a Inicio, escriba ejecutar
     3. Luego, en la ventana de ejecutar escriba cmd para acceder a la consola de comandos de windows
