@@ -10,15 +10,15 @@ Distrito ** Provincia ** Departamento
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
-Asunto: VOLVER A LLAMAR EL 15/10/2021 NO EST A EN CASA
-llamar a las 9:10 AM -----> NO CONTESTÓ
-NOMBRE: PINTO JARAMILLO LIZANDRO
-TELEFONO:920162869
+Asunto: VOLVER A LLAMAR CUANDO ESTE EN CASA
+llamar a las 11:30 AM -----> NO CONTESTÓ
+NOMBRE: MONTURA ALANGUIA SABINO
+TELEFONO 942608828
 ****************************************************************************
-Asunto: 
-LLAMAR a las 0:00 AM ----> 
-NOMBRE: 
-TELEFONO: 
+Asunto: VOLVER A LLAMAR LO VA  CONSULTAR
+LLAMAR a las 3:30 AM ----> 
+NOMBRE: TOLEDO FLORES HUGO ALBERTO
+TELEFONO: 953504062
 ****************************************************************************
 Asunto: 
 llamar a las 0:00 PM ---->
@@ -37,10 +37,10 @@ ____________________________________________________________________________
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>  OTROS DIAS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
-Asunto: 
-llamar a las 0:00 AM ----->
+Asunto: VOLVER A LLAMAR 16/10/2021 VA A CONSULTAR
+llamar a las 10:00 AM ----->
 NOMBRE: 
-TELEFONO:
+TELEFONO: 994849543
 ****************************************************************************
 Asunto: 
 llamar a las 0:00 AM ----->
@@ -188,8 +188,8 @@ PROGRAMACION:
 F.D.ATENCION:
 Asesor: BRUNO ALARCON
 **********************************************************
-JUEVES 00/10/2021
-Nombres y Apellidos: 
+JUEVES 15/10/2021
+Nombres y Apellidos: RICHARD VILLAFUERTE AYBAR
 DNI:  
 SCORE:  
 F.N:  
@@ -203,11 +203,31 @@ Referencias:
 Distrito:  / /
 Nodo: 
 Plan solicitado :  2PLAY 50MB-TLF 100 S/80.00
-Números de contacto:  
+Números de contacto:  951345918
 FULL CLARO:  
 MODALIDAD:
-CODIGO DIARIO: 
+CODIGO DIARIO: BDMOV-5-19598
 PROGRAMACION:
 F.D.ATENCION:
 Asesor: BRUNO ALARCON
 **********************************************************
+     Verifica que version de Windows 8 tienes, para ellos debes ir a panel de control, en el apartado Sistema. Luego de saber que version tienes busca la licencia correspondiente a esa version abajo en este post.
+    2. Ir a Inicio, escriba ejecutar
+    3. Luego, en la ventana de ejecutar escriba cmd para acceder a la consola de comandos de windows
+
+    4. Con la clave elegida y la máquina de comandos abierta, deberemos introducir la siguiente combinación de comandos:
+    5. slmgr /ipk XXXX-XXXX-XXXX-XXXX-XXXX (aquí va la clave del producto)
+    slmgr /skms kms.digiboy.ir (si no funciona, deberemos sustituirlo por kms.msguides.com)
+
+slmgr /ato
+
+Cuando hayamos introducido los tres comandos, nos aparecerá tres ventanas diferentes que no irán indicado el estado de activación de Windows. 
+
+slmgr /ipk 3FCND-JTWFM-24VQ8-QXTMB-TXT67
+
+3FCND-JTWFM-24VQ8-QXTMB-TXT67
+GX9N8-4H2FH-D987T-BQ9GK-XKT67
+MBFBV-W3DP2-2MVKN-PJCQD-KKTF7
+6RH4V-HNTWC-JQKG8-RFR3R-36498
+4Y8N3-H7MMW-C76VJ-YD3XV-MBDKV
+28VNV-HF42G-K2WM9-JXRJQ-2WBQW
