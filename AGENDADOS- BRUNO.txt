@@ -81,13 +81,21 @@ cuidad:
 Provincia: 
 TELEFONO:  934717444 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Asunto: ENVIAR PROPUESTAS POR WHATSAPP - AUN NO LO ENVIO
+Asunto: ENVIAR PROPUESTAS POR WHATSAPP - ENVIADO 
 NOMBRE:   KENYI BLADIMIR TACURI CARRILLO
 cuidad: TACNA
 Provincia: TACNA
 TELEFONO:  918469022 
 DNI: 73375223
 ESTADO: BDMV-6-4717
+****************************************************************************
+Asunto: ENVIAR PROPUESTAS POR WHATSAPP - ENVIADO 
+NOMBRE:   SANDOVAL BAYONA JOSUE VICENTE
+cuidad: Nuevo Chimbote
+Provincia: ANCASH
+TELEFONO:  915216718 
+DNI: 43438539
+ESTADO: BDMOV-5-2917
 ****************************************************************************
 
 REALIZADOS_________________________________________________________________
