@@ -1,2 +1,0 @@
-# RYR 
-HOLA SOY BRUNO ALARCÓN :)
