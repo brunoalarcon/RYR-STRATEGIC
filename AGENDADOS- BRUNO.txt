@@ -4,6 +4,8 @@ Atención al cliente - 0800123
 **********************
 
 CONSULTAS RENIEC: https://serviciosweb.reniec.gob.pe/aip/logout.do
+PÁGINAS BLANCAS: http://www.paginasblancas.pe/
+SUNAT: https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp
 
 Distrito ** Provincia ** Departamento
 
