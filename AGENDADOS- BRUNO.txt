@@ -270,7 +270,78 @@ Asesor: BRUNO ALARCON
 
 
 
-     Verifica que version de Windows 8 tienes, para ellos debes ir a panel de control, en el apartado Sistema. Luego de saber que version tienes busca la licencia correspondiente a esa version abajo en este post.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verifica que version de Windows 8 tienes, para ellos debes ir a panel de control, en el apartado Sistema. Luego de saber que version tienes busca la licencia correspondiente a esa version abajo en este post.
     2. Ir a Inicio, escriba ejecutar
     3. Luego, en la ventana de ejecutar escriba cmd para acceder a la consola de comandos de windows
 
