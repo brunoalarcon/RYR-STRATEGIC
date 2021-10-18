@@ -6,7 +6,7 @@ Atención al cliente - 123
 Atención al cliente desde otros celulares - 0800 00123
 TELEBANKING DE AMERICA MOVIL - SCOTIABANK
 **************************************************************************
-
+GO AGENT: https://goautodial.com/
 CONSULTAS RENIEC: https://serviciosweb.reniec.gob.pe/aip/logout.do
 PÁGINAS BLANCAS: http://www.paginasblancas.pe/
 SUNAT: https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp
@@ -26,10 +26,10 @@ LLAMAR A LAS 00:00 PM ---->
 NOMBRE: 
 TELEFONO: 
 ****************************************************************************
-Asunto: OCUPADO
-LLAMAR A LAS 1:00 PM ----> NO CONTESTÓ
+Asunto:
+LLAMAR A LAS 1:00 PM ---->
 NOMBRE: 
-TELEFONO: 965709447
+TELEFONO: 
 ****************************************************************************
 Asunto: VOLVER A LLAMAR ESTA CONDUCIENDO PERO SI QUIERE INTENET + CABLE
 LLAMAR A LAS 5:55 PM ----->
