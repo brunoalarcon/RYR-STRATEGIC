@@ -23,26 +23,12 @@ TRUECALLER - INSTALAR
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
-
-****************************************************************************
-Asunto:  ENVIAR OFERTARS POR WHATSAPP - ENVIADO
-LLAMAR A LAS 00:00 AM -----> 
-NOMBRE: Ricardo Mart�n Calderon Vega
-CODIGO: BD-MOV-2-7838
-TELEFONO: 987129059
-****************************************************************************
 Asunto: ENVIAR OFERTARS POR WHATSAP - ENVIADO
 TIENE UN TRI CON MOVISTAR TOTAL Y 3 LINEAS AFILIADAS
 LLAMAR A LAS 00:00 PM -----> 
 NOMBRE: JESUS ARMANDO CARNERO RAMIREZ
 TELEFONO: 992895217
 CODIGO: BDMOV-7-9057
-****************************************************************************
-Asunto: ENVIAR OFERTARS POR WHATSAPP - ENVIADO
-INTERESADA TEL + INTERNET - ESTA N EL TRABAJO- PENDIENTE DE VRF COBERT
-LLAMAR A LAS 0:00 AM ----> 
-NOMBRE: MARISOL SALOME CRUZ APAZA
-TELEFONO: 958066485 
 ****************************************************************************
 Asunto: 
 LLAMAR A LAS 0:00 PM -----> 
@@ -239,7 +225,7 @@ CAMPAÑA: REGULAR_FTTH
 PAQUETE: 2PLAY 30MB-TLF 80 S/69.00
 DETALLE: 
 CANTIDAD DE DECOS: 
-
+**********************************************************
 ****************************************************************************
 FECHA Y HORA: 21/10/2021 - 
 NOMBRE DEL AGENTE: BRUNO ALARCÓN
