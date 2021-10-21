@@ -8,6 +8,9 @@ TELEBANKING DE AMERICA MOVIL - SCOTIABANK
 **************************************************************************
 GO AGENT: https://goautodial.com/
 RYR: http://104.128.75.14/agent/agent.php#
+EYE BEAM
+CALL: S2110210859498600057
+      5164536886
 CONSULTAS RENIEC: https://serviciosweb.reniec.gob.pe/aip/logout.do
 PÁGINAS BLANCAS: http://www.paginasblancas.pe/
 SUNAT: https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp
@@ -15,8 +18,6 @@ SUNAT: https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusqued
 Distrito / Provincia / Departamento
 
 TRUECALLER - INSTALAR
-
-PROGRAMADOS DE KIARA - CARMENELIZABEH
 
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
@@ -237,7 +238,7 @@ DETALLE:
 CANTIDAD DE DECOS: 
 
 ****************************************************************************
-FECHA Y HORA: 21/10/2021
+FECHA Y HORA: 21/10/2021 - 
 NOMBRE DEL AGENTE: BRUNO ALARCÓN
 GRUPO: GRUPO B
 NOMBRE Y APELLIDO DEL CLIENTE: RICARDO FELICIANO ALVA YUPANQUI
@@ -258,7 +259,7 @@ PUBLICA: NO
 NOMBRE DE PAPA (AMBOS NOMBRES): 
 NOMBRE DE MAMA (AMBOS NOMBRES): 
 TELEFONOS DE CONTACTO: 
-TELEFONO DE GRABACION: 949915206
+TELEFONO DE GRABACION: 949915206- VOLVER A LLAMAR A LA 1PM 
 TIPO (ALTA / --PORTA): 
 --NUMERO A PORTAR: 
 --MODALIDAD (PREPAGO / POSTPAGO): 
