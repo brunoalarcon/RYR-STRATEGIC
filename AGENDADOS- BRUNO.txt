@@ -88,10 +88,10 @@ DNI: 40228190
 TELEFONO:  980947304
 ****************************************************************************
 sunto: ENVIAR LOS PLANES POR WHATSAPP -> 
-NOMBRE: 
-cuidad: 
-Provincia: 
-TELEFONO:  
+NOMBRE: ROSA LIZETT CASTRO SANCHEZ
+cuidad: LIBERTAD
+Provincia: TRUJILLO
+TELEFONO:  936979511
 ****************************************************************************
 sunto: ENVIAR LOS PLANES POR WHATSAPP -> 
 NOMBRE: 
