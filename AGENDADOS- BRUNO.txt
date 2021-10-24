@@ -58,7 +58,7 @@ TELEFONO: 992895217
 CODIGO: BDMOV-7-9057
 ****************************************************************************
 Asunto: QUIERE INTERNET + CABLE - VOLVER A LLAMAR PARA EXPLCARLE MEJOR LOS PLANES
-LLAMAR A LAS 3:00 AM ----->  ME LALMARA A MI PERSONAL UU - CASA ++++++
+LLAMAR A LAS 3:00 AM ----->  ME LLAMARA A MI PERSONAL UU - CASA ++++++
 NOMBRE:LANDA LOPEZ VELIA EMPERATRIZ
 TELEFONO: 999723951
 ****************************************************************************
@@ -67,7 +67,7 @@ LLAMAR A LAS 1:00 PM -----> CONTESTO PERO, DIJO QUE LA VUELVA A LLAMAR 1PM-
 AJAJA OCUPADA OPTRA VEZ XD SE RIA A LAS 6PM LLAMADA
 NOMBRE: EDITH ALICIA PALACIOS BLANCO
 CUIDAD: TACNA
-TELEFONO: 952222209
+TELEFONO: 952222209 - me envio la direccion google maps
 ****************************************************************************
 Asunto: 
 LLAMAR A LAS 0:00 AM ----> 
@@ -121,21 +121,21 @@ Provincia:
 DNI: 40228190
 TELEFONO:  980947304
 ****************************************************************************
-ASUNTO: ENVIAR LOS PLANES POR WHATSAPP ->
+ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> enviado
 DIJO QUE ME ESCRIBIRA - 2PLAY INTERNET + TELF 30MBS S/. 70
 NOMBRE: CESAR IVAN REYES RODRIGUEZ
 cuidad: LIBERTAD
 Provincia: TRUJILLO
 TELEFONO:  916073242
 ****************************************************************************
-sunto: ENVIAR LOS PLANES POR WHATSAPP -> CASA
+sunto: ENVIAR LOS PLANES POR WHATSAPP -> CASA - enviado
 NO ESTABA SU ESPOSO ME CONTESTO LA CHICA MUY AMAMBLE - ENV PLNS
 NOMBRE: JOEL ALEXANDER HUAMAN GARCIA
 cuidad: --
 Provincia: --
 TELEFONO:  962210691
 ****************************************************************************
-sunto: ENVIAR LOS PLANES POR WHATSAPP -> CASA
+sunto: ENVIAR LOS PLANES POR WHATSAPP -> CASA -ENVIADO
 ESTABA OCUPADA, MUY AMABLE LA CHICA 7U7
 NOMBRE: 945576205
 cuidad: Cajamarca
@@ -353,7 +353,7 @@ CAMPAÑA: REGULAR_FTTH
 PAQUETE: 
 DETALLE: 
 CANTIDAD DE DECOS:
-CONTACTO LELIA SECRETARIA 
+CONTACTO LELIA SECRETARIA  vigencia de poderes
 
 
 
