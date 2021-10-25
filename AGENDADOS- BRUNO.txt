@@ -40,12 +40,10 @@ CHATEA CON JOSIE: https://chateaconjosie.com/chatapp/
 -KIT BASICO  S/.810  KIT PRINCIPAL Y SECUNDARIO
 -KIT AVANZADO  S/.1200  KIT PRINCIPAL Y DOS SECUNDARIOS   
 
-Estás llevando tus problemas económicos a tu vida sentimental, cambia de actitud. Hoy sentirás que estas lejos de tus metas, ten calma, lograrás lo que te propones. Número de suerte, 6.
-
-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
+
 ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> enviado
 DIJO QUE ME ESCRIBIRA - 2PLAY INTERNET + TELF 30MBS S/. 70
 NOMBRE: CESAR IVAN REYES RODRIGUEZ
@@ -153,6 +151,8 @@ TELEFONO:
 ****                         VENTAS REALIZADAS                          ****
 ****************************************************************************
 MARTES 12/10/2021  - INSTALADA TODO OKA
+ASESOR: BRUNO ALARCON 
+CODIGO DE ASESOR: 8006
 Nombres y Apellidos:DEIDANIA DEL PILAR DEL AGUILA PAREDES 
 DNI: 46814678
 SCORE:  7
@@ -172,7 +172,6 @@ CODIGO DIARIO: K049-5041
 MODALIDAD:ALTA 
 PROGRAMACION:
 F.D.ATENCION:
-Asesor: BRUNO ALARCON
 **********************************************************
 ****************************************************************************
 JUEVES 14/10/2021 - PROGRAMADA PARA EL 22/10/2021 - NO TENIA PERMISO DEL VECINO
@@ -225,46 +224,6 @@ PROGRAMACION:
 F.D.ATENCION:
 Asesor: BRUNO ALARCON
 CODIGO AGENTE: 8006
-**********************************************************
-****************************************************************************
-FECHA Y HORA: 21/10/2021 -
-NOMBRE DEL AGENTE: BRUNO ALARCÓN
-GRUPO: GRUPO B
-NOMBRE Y APELLIDO DEL CLIENTE: MARIA SONCO FLORES
---RAZON SOCIAL (SOLO RUC 20):
-TIPO DE DOCUMENTO (DNI / CE / --RUC): DNI
-NUMERO DE DOC. IDENTIDAD: 29574887
---TIPO DE DOCUMENTO DE IDENTIDAD (SOLO RUC 20): 
---NUMERO DE DOC. IDENTIDAD (SOLO RUC 20): 
-LUGAR DE NACIMIENTO (DISTRITO/PROVINCIA/DEPARTAMENTO): SOCABAYA /AREQUIPA /AREQUIPA
-FECHA DE NACIMIENTO: DD/MM/AA
-DIRECCION DE INSTALACION:	URB LARA MZ E LT 7
-DISTRITO: SOCABAYA
-PROVINCIA: AREQUIPA
-DEPARTAMENTO: AREQUIPA
-REFERENCIA: 
-CORREO ELECTRONICO: 
-PUBLICA: NO 
-NOMBRE DE PAPA (AMBOS NOMBRES): 
-NOMBRE DE MAMA (AMBOS NOMBRES): 
-TELEFONOS DE CONTACTO: 
-TELEFONO DE GRABACION: 924118425
-TIPO (ALTA / --PORTA): 
---NUMERO A PORTAR: 
---MODALIDAD (PREPAGO / POSTPAGO): 
---OPERADOR CEDENTE: 
---TIPO DE SERVICIO (FIJO / MOVIL): 
-TECNOLOGÍA (HFC / FTTH): HFC
-AFILIA AL DEBITO AUTOMATICO: 	
-SCORE: 4
-NODO: AQSB023 
-APLICA FULL CLARO	(SI / NO): 
-TIPO DE CONTACTO: 
-COD. DIARIO (SOLO PARA BASE ESPECIAL): BDMOV-5-4198
-CAMPAÑA: REGULAR_FTTH
-PAQUETE: 2PLAY 30MB-TLF 80 S/69.00
-DETALLE: 
-CANTIDAD DE DECOS: 
 **********************************************************
 ****************************************************************************
 FECHA Y HORA: 21/10/2021 - ESPERANDO LA VIGENCIA DE PODERES
@@ -346,7 +305,37 @@ CAMPAÑA: REGULAR_FTTH
 PAQUETE: 2PLAY 30MB-TLF 100 S/70.00
 DETALLE: 
 CANTIDAD DE DECOS: 
+**********************************************************
+****************************************************************************
+FECHA Y HORA: 25/10/2021 - 
+NOMBRE DEL ASESOR: BRUNO ALARCÓN
+CODIGO ASESOR: 8006
+GRUPO: GRUPO B
 
+NOMBRE Y APELLIDO DEL CLIENTE: MARIA SONCO FLORES
+DNI: 
+SCORE: 
+TECNOLOGIA (HFC-FTTH): 
+NODO: 
+CODIGO DIARIO: 
+FECHA NAC:  / /  
+LUGAR NAC (D-P-D):  / /  
+NOMBRE PATERNO:  
+NOMBRE MATERNO:  
+CORREO: 
+P.B PUBLICA :  NO
+DIRECCIÓN DE INSTALACIÓN: 
+REFERENCIAS: 
+DISTRITO:
+PROVINCIA: 
+DEPARTAMENTO: 
+PLAN / PAQUETE SOLICITADO:  _PLAY _MB-TLF 100 S/_.00
+CANTIDAD DE DECOS: 
+NÚMEROS DE CONTACTO: 
+FULL CLARO: 
+MODALIDAD (ALTA-PORTA): 
+PROGRAMACIÓN: 
+F.D.ATENCIÓN:
 
 
 
