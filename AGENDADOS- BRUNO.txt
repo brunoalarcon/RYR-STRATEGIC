@@ -295,7 +295,7 @@ PROGRAMACIÓN:
 F.D.ATENCIÓN: 
 **********************************************************
 ****************************************************************************
-FECHA Y HORA: 25/10/2021 - 
+FECHA Y HORA: 26/10/2021 - 
 NOMBRE DEL ASESOR: BRUNO ALARCÓN
 CODIGO ASESOR: 8006
 GRUPO: GRUPO B
@@ -327,7 +327,7 @@ PROGRAMACIÓN:
 F.D.ATENCIÓN: 
 **********************************************************
 ****************************************************************************
-FECHA Y HORA: 25/10/2021 - 
+FECHA Y HORA: 26/10/2021 - 
 NOMBRE DEL ASESOR: BRUNO ALARCÓN
 CODIGO ASESOR: 8006
 GRUPO: GRUPO B
