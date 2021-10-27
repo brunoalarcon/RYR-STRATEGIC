@@ -54,27 +54,27 @@ NOMBRE:
 DIRECCION: 
 TELEFONO: 
 ****************************************************************************
-ASUNTO: OCUPADOOOOOO REINTENTAR PÁRA XPLICAR PLANES
-LLAMAR A LAS 5:30 PM -----> NUNCA CONTESTÓ
-NOMBRE:  WILFREDO
-TELEFONO: 999287912
+ASUNTO: 
+LLAMAR A LAS 0:00 PM -----> 
+NOMBRE:  
+TELEFONO: 
 ****************************************************************************
-ASUNTO: ME ENVIARA POR WHATSAPP
-LLAMAR A LAS 00:00 AM ----> ALACRAN
-NOMBRE: TEODULO PATRICIO GARCIA RICHARDZON
-DNI: 08296877
-DIRECCION: BD-MOV-2-9714
-TELEFONO: 998319490
+ASUNTO: 
+LLAMAR A LAS 00:00 PM ----> 
+NOMBRE: 
+DNI: 
+DIRECCION: 
+TELEFONO: 
 ****************************************************************************
 ASUNTO: LE ESCRIBI POR WHATSAP MI- ESPERAR RESPUESTA 25/10/2021
-LLAMAR A LAS 8:00 PM ----> 
+LLAMAR A LAS 8:00 PM ---->  NUNCA CONTETÓ
 NOMBRE: WILFREDO CUENCA CHARA
 TELEFONO: 957776913
 DNI: 08109014
-FULL CLARO: Max Ilimitado 75.00 957776913 
+FULL CLARO: Max Ilimitado 75.00 - 957776913 
 ****************************************************************************
-ASUNTO: ENVIAR OFERTAS POR WHATSAPP
-LLAMAR A LAS 00:00 AM ----> 
+ASUNTO: ENVIÉ OFERTAS POR WHATSAPP  26/10/2021
+LLAMAR A LAS 00:00 AM ----> NO CONTESTÓ
 NOMBRE: YORKTHAN MARTEL MIRAVAL 
 DIRECCION: BDMOV-5-13219
 DNI: 25541886
@@ -99,7 +99,7 @@ ____________________________________________________________________________
 
 ASUNTO: MANEJANDO - 2PLAY 50MB-TLF 100 S/80.00
 LLAMAR A LAS 01:40 PM -----> ESTAN CONSTRUYENDO LA CASA DE SU VECINO EN 
-CONSTRUCCION ,XD PARA EL NOMVIEMBRE
+CONSTRUCCION ,XD PARA NOMVIEMBRE
 NOMBRE: HILDA MELANEA SALAS SANTA CRUZ
 TELEFONO: 929251056 
 CODIGO: K049-3415
@@ -117,22 +117,17 @@ ____________________________________________________________________________
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 ->>>>>>>>>>>>>>>>>>>>>> ESCRIBIR POR WHATSAPP <<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
-
-ASUNTO: LE ENVIÉ LOS PLANES POR WHATSAPP -> 
-NOMBRE: DAYSY NAYDUH RIOS AMEZ
-cuidad: Villa Maria Del Triunfo
-Provincia: Lima
-TELEFONO: 965404296
-CD: BDMOV-3-230
-DNI: 8001594
+ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
+NOMBRE: 
+cuidad: 
+Provincia: 
+TELEFONO: 
 ****************************************************************************
-ASUNTO: ENVIÉ LOS PLANES POR WHATSAPP -> LLAMAR EL 27/10/2021 - 9AM
-NOMBRE: COHED WAGNER VALDERRAMA VELASQ
-DNI: 41641186
-CD:  BDMOV-3-16834
-cuidad:  TRUJILLO
-Provincia: TRUJILLO
-TELEFONO: 995353184
+ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
+NOMBRE: 
+cuidad: 
+Provincia: 
+TELEFONO: 
 ****************************************************************************
 ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
 NOMBRE: 
