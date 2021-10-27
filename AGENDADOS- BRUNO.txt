@@ -50,12 +50,14 @@ NOMBRE: BD-SJL-1552
 DIRECCION: San Juan de Lurigancho
 TELEFONO: 16997288
 ****************************************************************************
-ASUNTO: 
-LLAMAR A LAS 00:00 AM ---->
-NOMBRE:  
-DIRECCION:
-DNI: 
-TELEFONO: 
+ASUNTO: LLAMAR A LAS 8PM EXPLICAR PLANES
+TIENE UN TRIO CON MOVISTAR -TALVES EN PORTAR A CLARO
+LLAMAR A LAS 08:00 PM ----> EN CASA
+NOMBRE:  SULCA GUZMAN CIPRIAN
+DIRECCION:San Juan de Miraflores
+DNI: 41242997
+CD: BDMOV-5-7968
+TELEFONO: 990193681
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
@@ -63,7 +65,7 @@ NOMBRE:
 TELEFONO: 
 ****************************************************************************
 ASUNTO: INTERESADA, PORTARDEMOVISTAR A CLARO 2 PLAY TEFL + INTERNET
-LLAMAR A LAS 05:00 PM ----> 
+LLAMAR A LAS 05:00 PM ----> NO CONTESTÓ TALVEZ EN CASA POR WHATSAPP
 NOMBRE: VIOLETA FLOR ARANDA SANCHEZ
 DNI: 42856962
 CD: BDMOV-3-20173
