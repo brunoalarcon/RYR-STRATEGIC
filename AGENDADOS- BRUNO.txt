@@ -22,6 +22,7 @@ BLANCAS: http://www.paginasblancas.pe/
 SUNAT: https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp
 PREPAGO CHEVERE: https://www.claro.com.pe/personas/movil/prepago/triplica-tu-recarga/
 CANALES CLARO: https://www.claro.com.pe/personas/hogar/tv/canales-digitales-satelitales/
+COBERTURAS: https://cobertura.claro.com.pe//?utm_campaign=aa_general_claro&utm_source=medios_propios&utm_medium=claro_bot&utm_content=ai_conversacional&utm_term=claro_general-awareness&cu=cp1628262559
 
 Distrito / Provincia / Departamento
 CHATEA CON JOSIE: https://chateaconjosie.com/chatapp/
@@ -119,10 +120,10 @@ ____________________________________________________________________________
 ->>>>>>>>>>>>>>>>>>>>>> ESCRIBIR POR WHATSAPP <<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
-NOMBRE: 
-cuidad: 
+NOMBRE: TALMAI ZOHET RIOS NAVARRO
+cuidad: 48401975
 Provincia: 
-TELEFONO: 
+TELEFONO: 910721781
 ****************************************************************************
 ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
 NOMBRE: 
