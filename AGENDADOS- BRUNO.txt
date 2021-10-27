@@ -51,9 +51,10 @@ DIRECCION:
 TELEFONO: 941816037
 ****************************************************************************
 ASUNTO: 
-LLAMAR A LAS 00:00 AM ----> 
-NOMBRE: 
-DIRECCION: 
+LLAMAR A LAS 00:00 AM ---->
+NOMBRE:  
+DIRECCION:
+DNI: 
 TELEFONO: 
 ****************************************************************************
 ASUNTO: 
@@ -61,12 +62,13 @@ LLAMAR A LAS 0:00 PM ----->
 NOMBRE:  
 TELEFONO: 
 ****************************************************************************
-ASUNTO: 
-LLAMAR A LAS 00:00 PM ----> 
-NOMBRE: 
-DNI: 
-DIRECCION: 
-TELEFONO: 
+ASUNTO: INTERESADA, PORTARDEMOVISTAR A CLARO 2 PLAY TEFL + INTERNET
+LLAMAR A LAS 05:00 PM ----> 
+NOMBRE: VIOLETA FLOR ARANDA SANCHEZ
+DNI: 42856962
+CD: BDMOV-3-20173
+DIRECCION: TRUJILLO
+TELEFONO: 942294021
 ****************************************************************************
 ASUNTO: LE ESCRIBI POR WHATSAP MI- ESPERAR RESPUESTA 25/10/2021
 LLAMAR A LAS 8:00 PM ---->  NUNCA CONTETÓ
