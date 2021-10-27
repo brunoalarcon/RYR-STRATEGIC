@@ -21,6 +21,7 @@ RENIEC: https://serviciosweb.reniec.gob.pe/aip/logout.do
 BLANCAS: http://www.paginasblancas.pe/
 SUNAT: https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp
 PREPAGO CHEVERE: https://www.claro.com.pe/personas/movil/prepago/triplica-tu-recarga/
+CANALES CLARO: https://www.claro.com.pe/personas/hogar/tv/canales-digitales-satelitales/
 
 Distrito / Provincia / Departamento
 CHATEA CON JOSIE: https://chateaconjosie.com/chatapp/
@@ -42,11 +43,11 @@ CHATEA CON JOSIE: https://chateaconjosie.com/chatapp/
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
-ASUNTO: 
-LLAMAR A LAS 00:00 AM ----> 
-NOMBRE: 
+ASUNTO: VOLVER A LLMAR EN REUNION
+LLAMAR A LAS 10:40 AM ----> 
+NOMBRE: ROBERTH POOL ALBUJAR VILLANUEV
 DIRECCION: 
-TELEFONO:
+TELEFONO: 941816037
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 00:00 AM ----> 
