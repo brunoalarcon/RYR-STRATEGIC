@@ -45,6 +45,11 @@ CHATEA CON JOSIE: https://chateaconjosie.com/chatapp/
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
 ASUNTO: 
+LLAMAR A LAS 00:00 AM -----> 
+NOMBRE: 
+TELEFONO: 
+****************************************************************************
+ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
 NOMBRE:  
 TELEFONO: 
@@ -62,10 +67,11 @@ CD: BDMOV-5-7968
 TELEFONO: 990193681
 PERSONA JURÍDICA
 ****************************************************************************
-ASUNTO: ME CONTESTÓ SU MAMÁ , LE LLAMARIA AL RPC
+ASUNTO: ENVIAR PLANES VIA WHATSAPP - ENVIADO
 LLAMAR A LAS 0:00 PM -----> 
-NOMBRE:  
-TELEFONO: 955466867
+NOMBRE:  LISANDRO ALARCÓN DIAZ 
+TELEFONO: 981189925
+CD: BDMOV-3-2011
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
@@ -90,10 +96,12 @@ ____________________________________________________________________________
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>  OTROS DIAS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
-ASUNTO: TIENE MODEM DE CFLARO, OFRECERLE FIBRA :3
-LLAMAR A LAS 11:00 AM -----> 29/10/2021
-NOMBRE: SAMUEL SANTIAGO CANO DUE?AS 43746494
-TELEFONO: 974838613
+ASUNTO: VOLVER A LLAMAR EL 30/10/21
+LLAMAR A LAS 09:30 AM -----> 
+NOMBRE: ROBINSON CRUSOHE  CHAVEZ  SILV
+CIUDAD: CAJAMARCA
+CD: BMVIL-84359
+TELEFONO: 963912307
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 00:00 AM -----> 
