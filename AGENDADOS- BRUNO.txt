@@ -156,10 +156,11 @@ ____________________________________________________________________________
 ->>>>>>>>>>>>>>>>>>>>>> ESCRIBIR POR WHATSAPP <<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
-NOMBRE:  
-cuidad: 
-Provincia: 
-TELEFONO: 
+NOMBRE:  Quispe Rodriguez Rodobel Pascu - VENDIDO YUOI
+cuidad: 13355705
+Provincia: HUARAL.LIMA
+CD: BD-HAL-2799
+TELEFONO: 998590590
 ****************************************************************************
 ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
 NOMBRE: 
@@ -374,6 +375,40 @@ PROGRAMACIÓN:
 F.D.ATENCIÓN: 
 **********************************************************
 ****************************************************************************
+FECHA Y HORA: 26/10/2021 - PENDIENTE INSTALACIÓN
+NOMBRE DEL ASESOR: BRUNO ALARCÓN
+CODIGO ASESOR: 8006
+GRUPO: GRUPO B
+
+NOMBRE Y APELLIDO DEL CLIENTE:  RODOBEL PASCUAL QUISPE RODRIGUEZ
+DNI:  09746840
+SCORE: SC 9
+TECNOLOGIA (HFC-FTTH): FTTH 
+NODO:  LMHL008-F
+CODIGO DIARIO:  BD-HAL-2799
+FECHA NAC: 29/03/1970
+LUGAR NAC (D-P-D): JOSE MARIA QUIMPER / CAMANA / AREQUIPA
+NOMBRE PATERNO:  ANTONIO TEOBALDO
+NOMBRE MATERNO:  ZENOVIA
+CORREO:  RODOBELPASCUALQUISPERODRIGUEZ@GMAIL.COM
+PAGINAS.B PUBLICA :  SI
+DIRECCIÓN DE INSTALACIÓN:  AV. DEL SOLAR 214 PISO 2	
+REFERENCIAS:  A MEDIA CDRA DE LA PLAZA DE ARMAS DE HUARAL 
+DISTRITO:  HUARAL
+PROVINCIA: HUARAL 
+DEPARTAMENTO:  LIMA
+PLAN / PAQUETE SOLICITADO:  2PLAY 30MB-TLF 100 S/70.00
+CANTIDAD DE DECOS:  0
+NÚMEROS DE CONTACTO:  998590590 / 13355705
+NÚMERO DE GRABACION:  998590590
+FULL CLARO:  AUN NO - PERO SI LO SERÁ  :3
+MODALIDAD (ALTA-PORTA): PORTABILIADAD   
+PROGRAMACIÓN:  
+F.D.ATENCIÓN: 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**********************************************************
+****************************************************************************
 FECHA Y HORA: 26/10/2021 - 
 NOMBRE DEL ASESOR: BRUNO ALARCÓN
 CODIGO ASESOR: 8006
@@ -381,12 +416,12 @@ GRUPO: GRUPO B
 
 NOMBRE Y APELLIDO DEL CLIENTE:  
 DNI:  
-SCORE:  
+SCORE: 
 TECNOLOGIA (HFC-FTTH):  
 NODO:  
 CODIGO DIARIO:  
 FECHA NAC:  / /
-LUGAR NAC (D-P-D):  , ,  
+LUGAR NAC (D-P-D): / / 
 NOMBRE PATERNO:  
 NOMBRE MATERNO:  
 CORREO:  
