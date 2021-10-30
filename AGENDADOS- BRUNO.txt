@@ -20,6 +20,7 @@ INSTALACIÓN: PAGO EFECTIVO EN CUALQUIER BANCO - CON EL CÓDIGO BRINDADO ASU  NO
 RENIEC: https://serviciosweb.reniec.gob.pe/aip/logout.do
 BLANCAS: http://www.paginasblancas.pe/
 SUNAT: https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp
+BUSCAR DNI: https://eldni.com/pe/buscar-por-nombres
 PREPAGO CHEVERE: https://www.claro.com.pe/personas/movil/prepago/triplica-tu-recarga/
 CANALES CLARO: https://www.claro.com.pe/personas/hogar/tv/canales-digitales-satelitales/
 COBERTURAS: https://cobertura.claro.com.pe//?utm_campaign=aa_general_claro&utm_source=medios_propios&utm_medium=claro_bot&utm_content=ai_conversacional&utm_term=claro_general-awareness&cu=cp1628262559
