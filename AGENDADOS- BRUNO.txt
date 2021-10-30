@@ -46,10 +46,11 @@ CIUDAD CHIMBOTE - ANCASH
 CD: BMVIL-62168
 TELEFONO: 921892031
 ****************************************************************************
-ASUNTO: 
-LLAMAR A LAS 0:00 PM -----> 
-NOMBRE:  
-TELEFONO: 
+ASUNTO: ME CONTESTÓ SU PAPÁ QUE LE LLAME ANTES DE LAS 4
+LLAMAR A LAS 04:00 PM -----> 
+NOMBRE:  Garcia Chacon Ulises Miguel
+TELEFONO: 13235097
+CD: BD-SLIS-783
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
