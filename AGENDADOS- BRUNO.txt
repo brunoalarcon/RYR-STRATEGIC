@@ -39,7 +39,7 @@ CHATEA CON JOSIE: https://chateaconjosie.com/chatapp/
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
 ASUNTO: 
-LLAMAR A LAS 1:00 PM ----->  ENVIE LPANES PORWHATSAPP PARA QUE REVISE
+LLAMAR A LAS 1:00 PM ----->  ENVIE PLANES PORWHATSAPP PARA QUE REVISE
 NOMBRE:  ROSARIO MAGALLI CHIROQUE  CORT
 CIUDAD CHIMBOTE - ANCASH
 CD: BMVIL-62168
@@ -57,7 +57,7 @@ TELEFONO:
 ****************************************************************************
 ASUNTO: ENVIAR MENSAJE PARA QUE ME ENVIE COBERTURA
 LLAMAR A LAS 01:00 PM -----> OCUPADO - NO CONTESTO OTRA VES XD
-NOMBRE: KIARA FERNANDA HEREDIA ALBARRA
+NOMBRE:SR DENNIS MIGUEL FANOLA CORONADO  / KIARA FERNANDA HEREDIA ALBARRA
 TELEFONO: 917848258
 DNI: 71012602 
 NODO: LMVM001
@@ -97,10 +97,11 @@ NT MZ :A LT :4 SCT:3495 MZT:018 CV :SAN JOR GE , Ica - Ica
 TELEFONO: 56321387 
 CD: BD-ICA-10366
 ****************************************************************************
-ASUNTO: 
+ASUNTO: ME ENVIARIA UBI POR WHATSAPP . LE ESCRIBI NO RESPONDE
 LLAMAR A LAS 0:00 PM -----> 
-NOMBRE:  
-TELEFONO: 
+NOMBRE:  MARTINEZ ARCE GIULIANA DEL ROSARIO
+TELEFONO: 947162773       
+DNI: 21562846   
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 00:00 AM ----> 
@@ -123,7 +124,7 @@ CD: BMVIL-84359
 TELEFONO: 963912307
 ****************************************************************************
 ASUNTO: TIENE TRIO MOVISTAR- QUIERE 3PLAY 100MB -165 Y TIENE LINE MOVIL CON MOVISDTAR- SI MIGRA TENDRIA FULL CLARO
-LLAMAR A LAS 09:00 AM -----> 30/10/2021 NO CONTESTÓ DOS VECES
+LLAMAR A LAS 09:00 AM -----> 30/10/2021 NO CONTESTÓ TRES VECES
 NOMBRE: JAVIER ALEJANDRO ALVARADO PARI
 TELEFONO: 961952984
 CD. BDMOV-7-8870
@@ -157,12 +158,12 @@ ____________________________________________________________________________
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 ->>>>>>>>>>>>>>>>>>>>>> ESCRIBIR POR WHATSAPP <<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
-ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
-NOMBRE:  Quispe Rodriguez Rodobel Pascu - VENDIDO YUOI
-cuidad: 13355705
-Provincia: HUARAL.LIMA
-CD: BD-HAL-2799
-TELEFONO: 998590590
+ASUNTO: 
+NOMBRE:  
+cuidad: 
+Provincia: 
+CD: 
+TELEFONO: 
 ****************************************************************************
 ASUNTO: ENVIAR LOS PLANES POR WHATSAPP -> 
 NOMBRE: 
@@ -345,7 +346,7 @@ PROGRAMACIÓN:
 F.D.ATENCIÓN: 
 **********************************************************
 ****************************************************************************
-FECHA Y HORA: 26/10/2021 - 
+FECHA Y HORA: 26/10/2021 - ESPERANDO SU RESPUESTAS POR WHATSAPP
 NOMBRE DEL ASESOR: BRUNO ALARCÓN
 CODIGO ASESOR: 8006
 GRUPO: GRUPO B
@@ -377,7 +378,7 @@ PROGRAMACIÓN:
 F.D.ATENCIÓN: 
 **********************************************************
 ****************************************************************************
-FECHA Y HORA: 26/10/2021 - PENDIENTE INSTALACIÓN
+FECHA Y HORA: 30/10/2021 - PENDIENTE INSTALACIÓN
 NOMBRE DEL ASESOR: BRUNO ALARCÓN
 CODIGO ASESOR: 8006
 GRUPO: GRUPO B
@@ -408,10 +409,42 @@ MODALIDAD (ALTA-PORTA): PORTABILIADAD
 PROGRAMACIÓN:  
 F.D.ATENCIÓN: 
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **********************************************************
 ****************************************************************************
-FECHA Y HORA: 26/10/2021 - 
+FECHA Y HORA: 30/10/2021 - PENDIENTE DE PAGO
+NOMBRE DEL ASESOR: BRUNO ALARCÓN
+CODIGO ASESOR: 8006
+GRUPO: GRUPO B
+
+NOMBRE Y APELLIDO DEL CLIENTE:  DENNIS MIGUEL FANOLA CORONADO
+DNI:  10077221
+SCORE: 2
+TECNOLOGIA (HFC-FTTH):  HFC
+NODO:  LMVM001
+CODIGO DIARIO:  BDMOV-7-10610
+FECHA NAC:  20/09/1971
+LUGAR NAC (D-P-D): VILLA MARIA DEL TRIUNFO / LIMA / LIMA
+NOMBRE PATERNO: MIGUEL 
+NOMBRE MATERNO:  TERESA
+CORREO:  DENISITOFANNOLA@GMAIL.COM
+PAGINAS.B PUBLICA :  SI
+DIRECCIÓN DE INSTALACIÓN: AAHH SAN GABRIEL ALTO JR MANUEL MELITON CARVAJAL NUMERO 285 
+REFERENCIAS:  UNA CDRA PARQUE SIMON BOLIVAR
+DISTRITO:  VILLA MARIA DEL TRIUNFO
+PROVINCIA:  LIMA
+DEPARTAMENTO:  LIMA
+PLAN / PAQUETE SOLICITADO:  3PLAY 30MB-TLF 100 S/135.00
+CANTIDAD DE DECOS:  2
+NÚMEROS DE CONTACTO:  917848258
+NÚMERO DE GRABACION:  917848258
+FULL CLARO:  NO
+MODALIDAD (ALTA-PORTA): ALTA NUEVA  
+PROGRAMACIÓN:  
+F.D.ATENCIÓN: 
+
+**********************************************************
+****************************************************************************
+FECHA Y HORA: 30/10/2021 - 
 NOMBRE DEL ASESOR: BRUNO ALARCÓN
 CODIGO ASESOR: 8006
 GRUPO: GRUPO B
@@ -428,7 +461,7 @@ NOMBRE PATERNO:
 NOMBRE MATERNO:  
 CORREO:  
 PAGINAS.B PUBLICA :  
-DIRECCIÓN DE INSTALACIÓN:  	
+DIRECCIÓN DE INSTALACIÓN:  
 REFERENCIAS:  
 DISTRITO:  
 PROVINCIA:  
@@ -441,9 +474,6 @@ FULL CLARO:
 MODALIDAD (ALTA-PORTA):   
 PROGRAMACIÓN:  
 F.D.ATENCIÓN: 
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 
 
 
