@@ -56,16 +56,22 @@ Distrito / Provincia / Departamento
 
 
 ****************************************************************************
+ASUNTO: ME ENVIARA MENSAJE DESPUES DE CONSULTAR CON SU ESPOSO 
+INTERSADA EN 2PLAY INTERNET + HDTV 30MB S/.125 
+
+NOMBRE:  CARMEN MAGDALENA GOMEZ AYCA
+TELEFONO: 990312322
+DNI: 486273
+DIRECCION: PROLONGACION VENELUEZA 860 CALLE VENEZUELA
+DISTRITO: TACNA /TACNA / TACNA
+REFERENCIA: A DOS CRDAS CLINICA LA LUZ / A DOS CASAS COLIGIO ICNOVA SCHOOL
+Bd: BDMOV-E8-5059
+NODO: TCNA048
+****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 00:00 PM -----> 
 NOMBRE:  
 TELEFONO: 
-****************************************************************************
-ASUNTO: 
-LLAMAR A LAS 03:30 PM -----> 
-NOMBRE:  TOMAS WILFREDO SOSA NAVARRO
-TELEFONO: 910571842
-CD: BDMOV-5-15958
 ****************************************************************************
 ASUNTO: 3PLAY 30MB S/.135 INTERNET + TELF + CABLE / CONSULARÁ CON SU ESPOSO
 LLAMAR A LAS 04:20 PM -----> 
@@ -335,7 +341,7 @@ PROGRAMACIÓN:
 F.D.ATENCIÓN: 
 **********************************************************
 ****************************************************************************
-FECHA Y HORA: 30/10/2021 - PENDIENTE INSTALACIÓN
+FECHA Y HORA: 30/10/2021 - PENDIENTE INSTALACIÓN - TIENE DEUDA CON MOVISTAR
 NOMBRE DEL ASESOR: BRUNO ALARCÓN
 CODIGO ASESOR: 8006
 GRUPO: GRUPO B
