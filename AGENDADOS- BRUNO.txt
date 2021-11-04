@@ -45,11 +45,6 @@ Distrito / Provincia / Departamento
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  HOY   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
-ASUNTO:  
-LLAMAR A 4:10 AM -----> 
-NOMBRE:  Jos� wiliam Mel�ndez Lopez
-TELEFONO: 926950812
-****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
 NOMBRE:  
@@ -60,20 +55,10 @@ LLAMAR A LAS 0:00 PM ----->
 NOMBRE:  
 TELEFONO: 
 ****************************************************************************
-ASUNTO: EXPLICAR PLANES
-LLAMAR A LAS 10:00 AM -----> LLAMAR A LAS 040:00 PM
-NOMBRE:  PEDRO EDUARDO NAMUCHE RIVAS
-TELEFONO: 972457978
-****************************************************************************
-ASUNTO: 3PLAY 30MB S/.135 INTERNET + TELF + CABLE / CONSULARÁ CON SU ESPOSO
-LLAMAR A LAS 04:20 PM -----> 
-NOMBRE:  CARMEN ROSA RAMOS HUALLANCA - LLAMAR A LAS 5PN
-TELEFONO: 990214918
-DNI: 42499560
-SCORE: 8
-FULL CLARO: NO
-DISTRITO: MIRAFLORES -LIMA-LIMA
-cd: BDMOV-3-18229
+ASUNTO: 
+LLAMAR A LAS 0:00 PM -----> 
+NOMBRE:  
+TELEFONO: 
 
 ____________________________________________________________________________
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
