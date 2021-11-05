@@ -53,10 +53,27 @@ DIRECCIN: LINCE
 DNI: 46920386
 DIR: JR JOSE BERNARDO ALCEDO 358 UR
 ****************************************************************************
-ASUNTO: 
+
+
+ASUNTO: INTERESADO 100MBS+ TELF FIJO  PAGA 135 POR UN DUO DE INTENT + TELF
+LLAMAR A LAS 04:05 PM -----> 
+NOMBRE:  Fretel Chavez Darwin Ali
+TELEFONO: 13673370
+DNI: BD-LURN-564
+NODO: LMLR003-F    FTTH
+****************************************************************************
+ASUNTO: ENVIAR PLANES - ENVIADOS
 LLAMAR A LAS 0:00 PM -----> 
-NOMBRE:  
-TELEFONO: 
+NOMBRE:  PORTILLO ALLENDE CLOVIR
+TELEFONO: 990171762
+DNI: 10111238
+****************************************************************************
+ASUNTO: TIENE 2 ASA CON MOVISTAR - DUO TEL+ INTENET PAGA 85
+ MOVIATAR TOTAL CON TRIO - PAGA ALGO DE 200 SOLES 
+ OFRECERLE 50MBS 
+LLAMAR A LAS 0:00 PM -----> 
+NOMBRE:  Gorn Garcia Pedro Manuel
+TELEFONO: 12322934 / 941703506
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
