@@ -61,15 +61,16 @@ LLAMAR A LAS 0:00 PM ----->
 NOMBRE:  
 TELEFONO: 
 ****************************************************************************
-ASUNTO:  I NTERNET Y CABLE 125
-LLAMAR A LAS 11:20 AM -----> 
-NOMBRE:  Diaz Herrera Ustragilda
-TELEFONO: 13904257
-****************************************************************************
 ASUNTO: 
-LLAMAR A LAS 0:00 PM -----> 
+LLAMAR A LAS 00:00 AM -----> 
 NOMBRE:  
 TELEFONO: 
+****************************************************************************
+ASUNTO: 2 PLAY 30 MBS - ESTABA EN EL CENTRO DE AREQUIPA NJO ME ESCUCHABA
+LLAMAR A LAS 01:00 PM -----> 
+NOMBRE:  SILVA VALENZUELA ZARUMA GIOVAN
+TELEFONO: 959306532
+CD: BDMOV-E8-1266
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
