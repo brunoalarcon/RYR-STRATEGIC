@@ -54,10 +54,13 @@ DNI: 46920386
 DIR: JR JOSE BERNARDO ALCEDO 358 UR
 ****************************************************************************
 
-
-
 ASUNTO: 
-LLAMAR A LAS 0:00 PM -----> 
+LLAMAR A LAS 00:00 AM -----> 
+NOMBRE:  
+TELEFONO: 
+****************************************************************************
+ASUNTO: 
+LLAMAR A LAS 00:00 AM -----> 
 NOMBRE:  
 TELEFONO: 
 ****************************************************************************
@@ -70,6 +73,9 @@ ASUNTO: 2 PLAY 30 MBS - ESTABA EN EL CENTRO DE AREQUIPA NJO ME ESCUCHABA
 LLAMAR A LAS 01:00 PM -----> 
 NOMBRE:  SILVA VALENZUELA ZARUMA GIOVAN
 TELEFONO: 959306532
+FULL CLARO:  SI APLICA
+MAX LIMITADO: 959306532   49.90
+DNI: 29539899
 CD: BDMOV-E8-1266
 ****************************************************************************
 ASUNTO: 
@@ -161,6 +167,13 @@ ____________________________________________________________________________
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>  OTROS DIAS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
 
+ASUNTO: LLAMAR EL LUNES 08/11/2021 PARA CONFIRMNAN PORQUE ADQUIRIO CLARO HOGAR
+LLAMAR A LAS 9:00 AM -----> 
+NOMBRE:  JOSE CARLOS VARGAS OROS
+TELEFONO: 900971073
+LUGAR: MIRAFLORES / LIMA
+DNI: 23930583
+****************************************************************************
 ASUNTO: INTERESADA 2PLY INT +TELF - CONSULTARA CON SU ESPOSO 
 LLAMAR A LAS 12:00 PM ----->  AVER SI DESESA 06/11/21
 NOMBRE:  SAIDA PAOLA AQUITUARY VALVERDE
