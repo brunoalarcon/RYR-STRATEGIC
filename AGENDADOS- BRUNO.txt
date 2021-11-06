@@ -53,7 +53,6 @@ DIRECCIN: LINCE
 DNI: 46920386
 DIR: JR JOSE BERNARDO ALCEDO 358 UR
 ****************************************************************************
-
 ASUNTO: 
 LLAMAR A LAS 00:00 AM -----> 
 NOMBRE:  
@@ -97,12 +96,10 @@ NOMBRE:  PORTILLO ALLENDE CLOVIR
 TELEFONO: 990171762
 DNI: 10111238
 ****************************************************************************
-ASUNTO: TIENE 2 CASAS CON MOVISTAR - DUO TEL+ INTENET PAGA 85
- MOVIATAR TOTAL CON TRIO - PAGA ALGO DE 200 SOLES 
- OFRECERLE 50MBS 
-LLAMAR A LAS 02:00 PM ----->  NO CONTESTO VARIAS VECES
-NOMBRE:  Gorn Garcia Pedro Manuel
-TELEFONO: 12322934 / 941703506
+ASUNTO: 
+LLAMAR A LAS 00:00 PM ----->  
+NOMBRE: 
+TELEFONO: 
 ****************************************************************************
 ASUNTO:  VA A CORNINAR NOSE QUE PERO A A COORDINAR xd :V
 INTERNET SOLO S/.70
