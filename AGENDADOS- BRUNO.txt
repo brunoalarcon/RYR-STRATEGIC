@@ -59,16 +59,6 @@ LLAMAR A LAS 00:00 AM ----->
 NOMBRE:  
 TELEFONO: 
 ****************************************************************************
-ASUNTO: 
-LLAMAR A LAS 00:00 AM -----> 
-NOMBRE:  
-TELEFONO: 
-****************************************************************************
-ASUNTO: 
-LLAMAR A LAS 00:00 AM -----> 
-NOMBRE:  
-TELEFONO: 
-****************************************************************************
 ASUNTO: 2 PLAY 30 MBS - ESTABA EN EL CENTRO DE AREQUIPA NJO ME ESCUCHABA
 LLAMAR A LAS 01:00 PM -----> 
 NOMBRE:  SILVA VALENZUELA ZARUMA GIOVAN
@@ -77,6 +67,16 @@ FULL CLARO:  SI APLICA
 MAX LIMITADO: 959306532   49.90
 DNI: 29539899
 CD: BDMOV-E8-1266
+****************************************************************************
+ASUNTO: 
+LLAMAR A LAS 00:00 AM -----> 
+NOMBRE:  
+TELEFONO: 
+****************************************************************************
+ASUNTO: 
+LLAMAR A LAS 00:00 AM -----> 
+NOMBRE:  
+TELEFONO: 
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
