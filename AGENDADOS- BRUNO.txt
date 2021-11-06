@@ -55,15 +55,20 @@ DIR: JR JOSE BERNARDO ALCEDO 358 UR
 ****************************************************************************
 
 
-ASUNTO: 
-LLAMAR A LAS 0:00 PM -----> 
-NOMBRE:  
-TELEFONO: 
+
+ASUNTO:  SI TIENE  COBERTURA
+LLAMAR A LAS 11:20 AM -----> 
+NOMBRE:  PIÑAN GOMEZ ROSA KATERINA
+TELEFONO: 935841749
+DNI: 76066554
+DIRECCION: CALLE SANTA ROSA SIN NUMERO
+REF:   A 100 MTS  AL ESTE  DEL CENTRO ARQUEOLOGIO POMA CALLAN / ENTRE JOSE DE SUCRE CON CALLE SANTA ROSA
+NODO : HZHU008-F  FTTH
 ****************************************************************************
-ASUNTO: 
-LLAMAR A LAS 0:00 PM -----> 
-NOMBRE:  
-TELEFONO: 
+ASUNTO:  I NTERNET Y CABLE 125
+LLAMAR A LAS 11:20 AM -----> 
+NOMBRE:  Diaz Herrera Ustragilda
+TELEFONO: 13904257
 ****************************************************************************
 ASUNTO: 
 LLAMAR A LAS 0:00 PM -----> 
