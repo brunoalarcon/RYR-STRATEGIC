@@ -33,6 +33,11 @@ MAPS GEODIR: http://securityoauth2.geodir.co/login
 MAPS: http://200.108.100.185/VENTAS/index.php
 CLARO BOT: https://bit.ly/3mJfJoQ
 
+https://maps.geodir.co/
+migraciones.fijas@a365.com.pe 
+geodir20248
+
+
 Distrito / Provincia / Departamento
 
  (\_/)
